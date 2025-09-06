@@ -2,7 +2,7 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import HomeScreen from "../screens/Home/HomeScreen";
 import DiaryScreen from "../screens/Diary/DiaryScreen";
 import RecipeScreen from "../screens/Recipes/RecipeScreen";
-import CameraScreen from "../screens/Camera/CameraScreen";
+import CameraScreen from "../screens/Cameras/CameraScreen";
 import FitnessScreen from "../screens/Fitness/FitnessScreen";
 import ProfileScreen from "../screens/Profile/ProfileScreen";
 
